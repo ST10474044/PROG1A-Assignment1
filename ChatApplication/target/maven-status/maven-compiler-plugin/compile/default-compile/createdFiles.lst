@@ -1,0 +1,5 @@
+com\mycompany\chatapplication\ChatApplication.class
+services\Login.class
+Models\User.class
+tests\LoginTest.class
+main\Main.class
